@@ -176,14 +176,14 @@ src/main/resources/
 No Windows (PowerShell ou CMD):
 
 ```bash
-cd quickhelp-backend
+cd quickhelp-back
 .\mvnw.cmd spring-boot:run
 ```
 
 No Linux/macOS:
 
 ```bash
-cd quickhelp-backend
+cd quickhelp-back
 ./mvnw spring-boot:run
 ```
 
@@ -308,12 +308,14 @@ Endpoints especiais:
 
 ## Participantes
 
-- Gustavo Pereira dos Santos  
-- Gabriele Brito  
-- Amanda Godinho  
-- Pedro Henrique  
-- Miguel Fabiani  
-- Felipe Dominicheli  
+Identificação completa (nome e RA) no arquivo `INTEGRANTES.txt`.
+
+- Amanda Barbosa Godinho
+- Felipe Oliveira Dominicheli
+- Gabriele Viveiros de Brito
+- Gustavo Pereira dos Santos
+- Miguel Fabiani
+- Pedro Henrique Siqueira Gomes
 
 ---
 

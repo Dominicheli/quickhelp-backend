@@ -1,0 +1,23 @@
+QuickHelp — Identificação do grupo
+Disciplina: Desenvolvimento Web III
+Entrega: Backend Spring Boot (P2)
+
+Integrantes:
+
+Nome completo: Amanda Barbosa Godinho
+RA: 1131392523001
+
+Nome completo: Felipe Oliveira Dominicheli
+RA: 1131392523021
+
+Nome completo: Gabriele Viveiros de Brito
+RA: 1131392523020
+
+Nome completo: Gustavo Pereira dos Santos
+RA: 1131392523031
+
+Nome completo: Miguel Fabiani
+RA: 1131392523011
+
+Nome completo: Pedro Henrique Siqueira Gomes
+RA: 1131392523008
